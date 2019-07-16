@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="4" size="100.000000 75.000000" />
+    <ImageTarget name="3" size="100.000000 149.672867" />
+    <ImageTarget name="2" size="100.000000 93.743370" />
+    <ImageTarget name="1" size="100.000000 39.641945" />
+    <ImageTarget name="HeiligenSchein" size="100.000000 133.333328" />
+    <ImageTarget name="Karotteee" size="100.000000 151.866409" />
+    <ImageTarget name="Suuuunflower" size="100.000000 118.527313" />
+    <ImageTarget name="Karotte" size="100.000000 133.333328" />
+    <ImageTarget name="Sunflower" size="100.000000 133.333328" />
+    <ImageTarget name="Welt" size="100.000000 112.603302" />
+    <ImageTarget name="LoveCologne" size="100.000000 17.422096" />
+    <ImageTarget name="IMG-20190408-WA0028" size="100.000000 75.000000" />
     <ImageTarget name="uzun-lafin-kisasi" size="100.000000 153.750000" />
   </Tracking>
 </QCARConfig>

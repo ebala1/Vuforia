@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 15d23df80407c4d488ba71c8186134c2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: A.1
+    100002: CLOUDS.1
+    100004: CLOUDS_1.1
+    100006: CLOUDS_2.1
+    100008: E.1
+    100010: EXTRUDE_NURBS_1.1
+    100012: LITTLE_ISLAD.1
+    100014: M.1
+    100016: MOUNTAIN
+    100018: N.1
+    100020: SEA
+    100022: SEA_1
+    100024: SKY
+    100026: SPHERE
+    100028: TREES.1
+    100030: TREES.2
+    100032: TREES.3
+    100034: TREES.4
+    100036: TREES.5
+    100038: //RootNode
+    400000: A.1
+    400002: CLOUDS.1
+    400004: CLOUDS_1.1
+    400006: CLOUDS_2.1
+    400008: E.1
+    400010: EXTRUDE_NURBS_1.1
+    400012: LITTLE_ISLAD.1
+    400014: M.1
+    400016: MOUNTAIN
+    400018: N.1
+    400020: SEA
+    400022: SEA_1
+    400024: SKY
+    400026: SPHERE
+    400028: TREES.1
+    400030: TREES.2
+    400032: TREES.3
+    400034: TREES.4
+    400036: TREES.5
+    400038: //RootNode
+    2100000: Material0
+    2100002: Material1
+    2100004: No Name
+    2100006: Material2
+    2100008: Material3
+    2100010: Material4
+    2100012: Material5
+    2300000: A.1
+    2300002: CLOUDS.1
+    2300004: CLOUDS_1.1
+    2300006: CLOUDS_2.1
+    2300008: E.1
+    2300010: EXTRUDE_NURBS_1.1
+    2300012: LITTLE_ISLAD.1
+    2300014: M.1
+    2300016: MOUNTAIN
+    2300018: N.1
+    2300020: SEA
+    2300022: SEA_1
+    2300024: SKY
+    2300026: SPHERE
+    2300028: TREES.1
+    2300030: TREES.2
+    2300032: TREES.3
+    2300034: TREES.4
+    2300036: TREES.5
+    3300000: A.1
+    3300002: CLOUDS.1
+    3300004: CLOUDS_1.1
+    3300006: CLOUDS_2.1
+    3300008: E.1
+    3300010: EXTRUDE_NURBS_1.1
+    3300012: LITTLE_ISLAD.1
+    3300014: M.1
+    3300016: MOUNTAIN
+    3300018: N.1
+    3300020: SEA
+    3300022: SEA_1
+    3300024: SKY
+    3300026: SPHERE
+    3300028: TREES.1
+    3300030: TREES.2
+    3300032: TREES.3
+    3300034: TREES.4
+    3300036: TREES.5
+    4300000: A.1
+    4300002: CLOUDS.1
+    4300004: CLOUDS_1.1
+    4300006: CLOUDS_2.1
+    4300008: E.1
+    4300010: EXTRUDE_NURBS_1.1
+    4300012: LITTLE_ISLAD.1
+    4300014: M.1
+    4300016: MOUNTAIN
+    4300018: N.1
+    4300020: SEA
+    4300022: SEA_1
+    4300024: SKY
+    4300026: SPHERE
+    4300028: TREES.1
+    4300030: TREES.2
+    4300032: TREES.3
+    4300034: TREES.4
+    4300036: TREES.5
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

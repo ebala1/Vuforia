@@ -5,10 +5,22 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/VB2804.unity
-    guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
-    path: Assets/Scenes/Animation.unity
-    guid: d2a86e907d3e9f7419106087527770d9
+    path: Assets/Scenes/SplashScene.unity
+    guid: c789f3f2a9b3ace4086d1e30afd9ae15
+  - enabled: 1
+    path: Assets/Scenes/UI.unity
+    guid: bc994c87683d10e4da2b9c59a4bcedbd
+  - enabled: 1
+    path: Assets/Scenes/LoveCologne.unity
+    guid: 07e1faf0458218e4aa1abb5fbbe0aeaa
+  - enabled: 1
+    path: Assets/Scenes/Impressum.unity
+    guid: 237d7826a89f08142843e7fc27d228ea
+  - enabled: 1
+    path: Assets/Scenes/AlertScene.unity
+    guid: f4e9dbf550b92e047be23ea287f6e1b4
+  - enabled: 0
+    path: Assets/Scenes/new.unity
+    guid: 5435493529c491e40a593e5bd27c7b80
   m_configObjects: {}

@@ -62,19 +62,30 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\RoseAnim.cs" />
+    <Compile Include="Assets\Scripts\Alert.cs" />
+    <Compile Include="Assets\Scripts\BackToMen.cs" />
     <Compile Include="Assets\Scripts\CameraFocusController.cs" />
+    <Compile Include="Assets\Scripts\Impressum.cs" />
+    <Compile Include="Assets\Scripts\JustMenu.cs" />
+    <Compile Include="Assets\Scripts\MainMenu.cs" />
+    <Compile Include="Assets\Scripts\SceneLoad.cs" />
+    <Compile Include="Assets\Scripts\SplashFade.cs" />
+    <Compile Include="Assets\Scripts\SplashText.cs" />
+    <Compile Include="Assets\Scripts\ToMap.cs" />
     <Compile Include="Assets\Scripts\vbInteraction.cs" />
     <None Include="Assets\Vuforia\Shaders\ColoredLines.shader" />
     <None Include="Assets\Vuforia\Shaders\CameraDiffuse.shader" />
     <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />
     <None Include="Assets\Vuforia\Shaders\VideoBackground.shader" />
     <None Include="Assets\Vuforia\Shaders\OutlineOpaque.shader" />
-    <None Include="Assets\StreamingAssets\Vuforia\Vuforia.xml" />
     <None Include="Assets\Vuforia\Shaders\DepthMask.shader" />
     <None Include="Assets\Vuforia\Databases\Emulator\VuforiaEmulator.xml" />
     <None Include="Assets\StreamingAssets\Vuforia\VuforiaMars_Images.xml" />
+    <None Include="Assets\Materials\unity-titling\read me.txt" />
     <None Include="Assets\Vuforia\Shaders\ClippingMask.shader" />
+    <None Include="Assets\Materials\unity-titling\license.txt" />
     <None Include="Assets\Vuforia\Shaders\BrightTexture.shader" />
+    <None Include="Assets\StreamingAssets\Vuforia\Vuforia.xml" />
     <None Include="Assets\Vuforia\Shaders\DepthContour.shader" />
     <None Include="Assets\Vuforia\Shaders\Text3D.shader" />
     <Reference Include="UnityEditor.StandardEvents">
